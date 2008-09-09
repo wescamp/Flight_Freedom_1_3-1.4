@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-08-20 22:49+0200\n"
+"POT-Creation-Date: 2008-09-09 13:01+0200\n"
 "PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -708,7 +708,7 @@ msgid "Storeroom"
 msgstr "Arbetarträ"
 
 #. [message]: speaker=narrator
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:347
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:374
 msgid ""
 "Although the hatchlings were now safe, they had suffered grievous wounds, "
 "rendering most of them unable to fight. Many died from their wounds, "
@@ -716,7 +716,7 @@ msgid ""
 msgstr ""
 
 #. [message]: description=Malakar
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:351
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:378
 #, fuzzy
 msgid ""
 "Soldiers! Attack! I expect each of you to bring back the scalp of a human!"
@@ -725,54 +725,54 @@ msgstr ""
 "människoskalp!"
 
 #. [object]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:540
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:567
 msgid "Drake Spear"
 msgstr "Drakspjut"
 
 #. [object]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:541
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:568
 msgid "This weapon is excellent for a drake rising against its masters."
 msgstr ""
 "Det här vapnet är utmärkt för en av drakfolket som gör uppror mot sina "
 "herrar."
 
 #. [object]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:542
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:569
 msgid "This weapon is only fit for adult drakes."
 msgstr "Det här vapnet passar bara drakfolkets fullvuxna trupper."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:591
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:618
 msgid "It's too small for drakes..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:642
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:669
 #, fuzzy
 msgid "So this is why the mansion is haunted..."
 msgstr "Herrgården är hemsökt!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:663
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:690
 msgid ""
 "The circle is crackling with magical energy! This is the work of a powerful "
 "necromancer."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:669
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:696
 msgid ""
 "The circle has darkened, but it reeks of decay. This is the work of a "
 "powerful necromancer."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:691
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:718
 msgid "AAAAH! I'm doomed!"
 msgstr ""
 
 #. [message]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:695
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:722
 msgid ""
 "Noble warriors, thank you for freeing me from this magical prison. I must "
 "now travel to my rightful place in the underworld. You may rest assured that "
@@ -780,109 +780,109 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:727
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:754
 msgid "A healing potion!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:755
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:782
 msgid "Ahh... tasty!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:771
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:798
 msgid " *pukes* I don't feel very well."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:790
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:817
 msgid "It's just some nonsense about talking to skeletons..."
 msgstr ""
 
 #. [message]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:805
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:832
 msgid "Like me?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:809
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:836
 msgid "Yes, like... AAAAH! A living skeleton!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:826
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:853
 msgid "...who seems to be missing a few bones."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:842
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:869
 msgid "Rotten grape juice! Yuck!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:858
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:885
 msgid "It's just a box."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:871
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:898
 msgid "It's another box."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:884
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:911
 msgid "Yet another box. *mumbles* This is getting old..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:898
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:925
 msgid "Wow, a wooden cube."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:915
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:942
 msgid ""
 "There's a fresh corpse here! It's been stitched together... it's moving!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:930
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:957
 msgid "An abomination! Help!"
 msgstr ""
 
 #. [scenario]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1029
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1056
 msgid "A key"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1052
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1082
 msgid "Could this key fit that trapdoor?"
 msgstr "Går den här nyckeln till den där dörren?"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1058
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1088
 #, fuzzy
 msgid "I seem to have found a key. What it unlocks, I do not know."
 msgstr "Jag har hittat en nyckel. Vad den låser upp vet jag inte."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1115
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1145
 msgid "The key fits!"
 msgstr "Nyckeln passar!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1127
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1157
 msgid "The trapdoor is locked! Could that key fit?"
 msgstr "Dörren är låst! Passar den här nyckeln?"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1133
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1163
 msgid "The trapdoor is locked!"
 msgstr "Dörren är låst!"
 
 #. [message]: description=Malakar
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1200
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1230
 msgid "This mansion is haunted!"
 msgstr "Herrgården är hemsökt!"
 
@@ -2451,7 +2451,7 @@ msgid "Dredgno"
 msgstr "Slagskepp"
 
 #. [side]: type=Elvish Captain, description=Einelen
-#. [unit]: type=Elvish Captain SPC, description=Einelen
+#. [unit]: type=Elvish Captain, description=Einelen
 #: Flight_Freedom_1_3/scenarios/09_Drake_Escape.cfg:74
 #: Flight_Freedom_1_3/scenarios/09_Drake_Escape.cfg:303
 msgid "Einelen"

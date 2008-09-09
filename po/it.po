@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-08-20 22:49+0200\n"
+"POT-Creation-Date: 2008-09-09 13:01+0200\n"
 "PO-Revision-Date: 2008-02-01 14:37+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -750,7 +750,7 @@ msgid "Storeroom"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:347
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:374
 msgid ""
 "Although the hatchlings were now safe, they had suffered grievous wounds, "
 "rendering most of them unable to fight. Many died from their wounds, "
@@ -761,7 +761,7 @@ msgstr ""
 "loro morirono e ciò alimentò la bramosia di sangue di Malakar e dei draghi."
 
 #. [message]: description=Malakar
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:351
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:378
 msgid ""
 "Soldiers! Attack! I expect each of you to bring back the scalp of a human!"
 msgstr ""
@@ -769,32 +769,32 @@ msgstr ""
 "uomo!"
 
 #. [object]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:540
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:567
 msgid "Drake Spear"
 msgstr "Lancia dei draghi"
 
 #. [object]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:541
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:568
 msgid "This weapon is excellent for a drake rising against its masters."
 msgstr "Quest'arma è eccellente per un drago che si ribelli ai suoi padroni."
 
 #. [object]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:542
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:569
 msgid "This weapon is only fit for adult drakes."
 msgstr "Quest'arma è adatta solo ai draghi adulti."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:591
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:618
 msgid "It's too small for drakes..."
 msgstr "È troppo piccolo per i draghi..."
 
 #. [message]: speaker=second_unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:642
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:669
 msgid "So this is why the mansion is haunted..."
 msgstr "Ecco perché questa dimora è infestata da fantasmi..."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:663
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:690
 #, fuzzy
 msgid ""
 "The circle is crackling with magical energy! This is the work of a powerful "
@@ -804,7 +804,7 @@ msgstr ""
 "necromante!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:669
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:696
 msgid ""
 "The circle has darkened, but it reeks of decay. This is the work of a "
 "powerful necromancer."
@@ -813,12 +813,12 @@ msgstr ""
 "l'opera di un potente necromante."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:691
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:718
 msgid "AAAAH! I'm doomed!"
 msgstr "AAAAH! Sono condannato!"
 
 #. [message]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:695
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:722
 msgid ""
 "Noble warriors, thank you for freeing me from this magical prison. I must "
 "now travel to my rightful place in the underworld. You may rest assured that "
@@ -829,108 +829,108 @@ msgstr ""
 "che i miei confratelli non vi faranno più alcun male."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:727
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:754
 msgid "A healing potion!"
 msgstr "Una pozione guaritrice!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:755
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:782
 msgid "Ahh... tasty!"
 msgstr "Ahh... buona!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:771
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:798
 msgid " *pukes* I don't feel very well."
 msgstr "(vomita) Non mi sento molto bene."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:790
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:817
 msgid "It's just some nonsense about talking to skeletons..."
 msgstr "È una assurdità parlare agli scheletri..."
 
 #. [message]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:805
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:832
 msgid "Like me?"
 msgstr "Come me?"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:809
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:836
 msgid "Yes, like... AAAAH! A living skeleton!"
 msgstr "Sì, come... AAAAH! Uno scheletro parlante!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:826
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:853
 msgid "...who seems to be missing a few bones."
 msgstr "... a cui pare manchino delle ossa"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:842
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:869
 msgid "Rotten grape juice! Yuck!"
 msgstr "Succo d'uva marcio! Slurp!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:858
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:885
 msgid "It's just a box."
 msgstr "È solo una scatola."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:871
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:898
 msgid "It's another box."
 msgstr "Solo un'altra scatola."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:884
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:911
 msgid "Yet another box. *mumbles* This is getting old..."
 msgstr "Ancora un'altra scatola. (mormora) Comincio a stifarmi..."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:898
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:925
 msgid "Wow, a wooden cube."
 msgstr "Uau, un cubo di legno."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:915
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:942
 msgid ""
 "There's a fresh corpse here! It's been stitched together... it's moving!"
 msgstr "Qui c'è un cadavere fresco! È stato ricucito... si muove!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:930
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:957
 msgid "An abomination! Help!"
 msgstr "Un abominio! Aiuto!"
 
 #. [scenario]
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1029
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1056
 msgid "A key"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1052
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1082
 msgid "Could this key fit that trapdoor?"
 msgstr "Chissà se questa chiave apre la botola?"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1058
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1088
 msgid "I seem to have found a key. What it unlocks, I do not know."
 msgstr "Pare che abbia trovato una chiave. Che cosa possa aprire non so dirlo."
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1115
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1145
 msgid "The key fits!"
 msgstr "La chiave entra!"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1127
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1157
 msgid "The trapdoor is locked! Could that key fit?"
 msgstr "La botola è chiusa! Che la chiave sia sua?"
 
 #. [message]: speaker=unit
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1133
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1163
 msgid "The trapdoor is locked!"
 msgstr "La botola è chiusa a chiave!"
 
 #. [message]: description=Malakar
-#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1200
+#: Flight_Freedom_1_3/scenarios/03a_Manor.cfg:1230
 msgid "This mansion is haunted!"
 msgstr "Questa dimora è infestata da fantasmi!"
 
@@ -2692,7 +2692,7 @@ msgid "Dredgno"
 msgstr "Dredgno"
 
 #. [side]: type=Elvish Captain, description=Einelen
-#. [unit]: type=Elvish Captain SPC, description=Einelen
+#. [unit]: type=Elvish Captain, description=Einelen
 #: Flight_Freedom_1_3/scenarios/09_Drake_Escape.cfg:74
 #: Flight_Freedom_1_3/scenarios/09_Drake_Escape.cfg:303
 msgid "Einelen"
